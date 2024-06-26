@@ -1,2 +1,2 @@
 # E-commerce
-simple e commerce website using MERN
+Simple e commerce website using MERN
